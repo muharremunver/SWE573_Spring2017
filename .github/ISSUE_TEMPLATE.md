@@ -3,7 +3,8 @@
 **I'm submitting a ...**  (check one with "x")
 ```
 [ ] bug report
-[ ] feature request
+[ ] new feature
+[ ] change feature
 [ ] support request
 ```
 
