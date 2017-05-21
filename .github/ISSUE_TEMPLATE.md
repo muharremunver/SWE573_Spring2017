@@ -7,24 +7,24 @@
 [ ] support request
 ```
 
-**Inputs**
+**Inputs:**
 
 
 
 
 
-**Gained result behavior**
+**Gained result:**
 <!-- Describe how the bug manifests. -->
 
 
 
 
 
-**Expected result**
+**Expected result:**
 <!-- Describe what the behavior would be without the bug. -->
 
 
 
 
 
-**Description**
+**Description:**
