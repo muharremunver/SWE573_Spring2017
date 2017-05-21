@@ -1,4 +1,3 @@
-<!-- IF YOU DON'T FILL OUT THE FOLLOWING INFORMATION WE MIGHT CLOSE YOUR ISSUE WITHOUT INVESTIGATING -->
 
 **I'm submitting a ...**  (check one with "x")
 ```
@@ -9,23 +8,24 @@
 ```
 
 **Inputs:**
-
+<!-- city, date and parameters. -->
 
 
 
 
 **Gained result:**
-<!-- Describe how the bug manifests. -->
+<!-- Describe the system behaviour. -->
 
 
 
 
 
 **Expected result:**
-<!-- Describe what the behavior would be without the bug. -->
+<!-- Describe what the behavior you expect. -->
 
 
 
 
 
 **Description:**
+<!-- Additioal information about issue. -->
