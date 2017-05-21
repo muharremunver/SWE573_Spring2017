@@ -10,10 +10,21 @@
 **Inputs**
 
 
+
+
+
 **Gained result behavior**
 <!-- Describe how the bug manifests. -->
 
+
+
+
+
 **Expected result**
 <!-- Describe what the behavior would be without the bug. -->
+
+
+
+
 
 **Description**
