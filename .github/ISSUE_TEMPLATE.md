@@ -1,5 +1,5 @@
 
-**I'm submitting a ...**  (check one with "x")
+**Issue type: ...**  (check one with "x")
 ```
 [ ] bug report
 [ ] new feature
@@ -13,17 +13,21 @@
 
 
 
-**Gained result:**
+**Actual behaviour:**
 <!-- Describe the system behaviour. -->
 
 
 
 
 
-**Expected result:**
+**Expected behaviour:**
 <!-- Describe what the behavior you expect. -->
 
 
+
+
+**Steps to reproduce the behaviour:**
+<!-- Describe steps how you produce bug. -->
 
 
 
